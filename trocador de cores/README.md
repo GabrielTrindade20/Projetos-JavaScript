@@ -1,6 +1,6 @@
 # Projeto Portfólio Color Flipper
 
-![Visualização do Color Flipper](readme%20Imagens/foto%20Pagina.png.png)
+![Visualização do Color Flipper](https://github.com/GabrielTrindade20/Projetos-JavaScript/blob/main/trocador%20de%20cores/readme%20Imagens/foto%20Pagina.png?raw=true)
 
 Bem-vindo ao meu Projeto Portfólio Color Flipper! Este projeto é uma aplicação web simples construída com HTML, CSS e JavaScript. O Color Flipper permite aos usuários gerar cores aleatórias ou cores hexadecimais aleatórias com um clique em um botão. É um projeto divertido para demonstrar algumas funcionalidades básicas de JavaScript e manipulação do DOM.
 
